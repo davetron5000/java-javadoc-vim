@@ -16,6 +16,8 @@ I find it helpful to do:
 
 in my `.vimrc` so that the "K" command will look up the javadoc of the class I'm on
 
+While hovering over a class name you can type <C-r> <C-w> while in the command-line mode 
+and it will paste the name.
 # Make your own
 
 http://davetron5000.github.com/vimdoclet/
